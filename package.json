@@ -1,0 +1,17 @@
+{
+	"name": "metaleap.vscode-theme",
+	"version": "1.0.0",
+	"publisher": "metaleap",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "metaleap Dark",
+				"uiTheme": "vs-dark",
+				"path": "./metaleapDark.tmTheme"
+			}
+		]
+	}
+}
