@@ -95,7 +95,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -106,7 +106,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f0b030</string>
+				<string>#E8A060</string>
 			</dict>
 		</dict>
 		<dict>
@@ -180,7 +180,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#e0c090</string>
+				<string>#e0c8a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,7 +215,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#e0c090</string>
+				<string>#e0c8a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -263,7 +263,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#30c0a0</string>
+				<string>#80c0b0</string>
 			</dict>
 		</dict>
 
@@ -291,7 +291,20 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#f0b030</string>
+				<string>#E8A060</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>META</string>
+			<key>scope</key>
+			<string>meta.block entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#80B090</string>
 			</dict>
 		</dict>
 		<dict>
@@ -367,7 +380,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e0c090</string>
+				<string>#e0c8a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -391,7 +404,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#f0b030</string>
+				<string>#E8A060</string>
 			</dict>
 		</dict>
 
@@ -419,7 +432,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E89830</string>
+				<string>#f8b858</string>
 			</dict>
 		</dict>
 
@@ -444,7 +457,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#e0c090</string>
+				<string>#e0c8a0</string>
 			</dict>
 		</dict>
 
@@ -487,7 +500,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#e0c090</string>
+				<string>#e0c8a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -500,7 +513,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#e0c090</string>
+				<string>#e0c8a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -535,7 +548,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f0b030</string>
+				<string>#E8A060</string>
 			</dict>
 		</dict>
 	</array>
