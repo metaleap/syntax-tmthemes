@@ -126,43 +126,6 @@
 
 		<dict>
 			<key>name</key>
-			<string>META</string>
-			<key>scope</key>
-			<string>meta.preprocessor</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
-				<key>foreground</key>
-				<string>#809080</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>META</string>
-			<key>scope</key>
-			<string>meta.declaration</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>META</string>
-			<key>scope</key>
-			<string>meta.class-constraint, meta.import, meta.deriving, meta.type-declaration</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#A0A8A0</string>
-			</dict>
-		</dict>
-
-
-		<dict>
-			<key>name</key>
 			<string>SUPPORT: module name for `module` and `import`</string>
 			<key>scope</key>
 			<string>support.other.module</string>
@@ -182,7 +145,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#b85818</string>
+				<string>#b86018</string>
 			</dict>
 		</dict>
 		<dict>
@@ -219,7 +182,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#b85818</string>
+				<string>#b86018</string>
 			</dict>
 		</dict>
 		<dict>
@@ -278,6 +241,43 @@
 
 		<dict>
 			<key>name</key>
+			<string>META</string>
+			<key>scope</key>
+			<string>meta.preprocessor</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#809080</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>META</string>
+			<key>scope</key>
+			<string>meta.declaration</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>META</string>
+			<key>scope</key>
+			<string>meta.class-constraint, meta.import, meta.deriving, meta.type-declaration</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A0A8A0</string>
+			</dict>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
 			<string>Class name</string>
 			<key>scope</key>
 			<string>entity.name.class</string>
@@ -304,6 +304,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>META</string>
+			<key>scope</key>
+			<string>meta.block entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Function name</string>
 			<key>scope</key>
 			<string>entity.name.function</string>
@@ -312,7 +323,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#A02010</string>
+				<string>#B83010</string>
 			</dict>
 		</dict>
 		<dict>
@@ -348,7 +359,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#A02010</string>
+				<string>#B83010</string>
 			</dict>
 		</dict>
 
@@ -360,10 +371,8 @@
 			<string>punctuation.separator, punctuation.definition.tag</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#A0A8A0</string>
+				<string>#A8B0A8</string>
 			</dict>
 		</dict>
 
@@ -377,7 +386,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e0a010</string>
+				<string>#905040</string>
 			</dict>
 		</dict>
 		<dict>
@@ -388,9 +397,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string>underline</string>
 				<key>foreground</key>
-				<string>#b85818</string>
+				<string>#b86018</string>
 			</dict>
 		</dict>
 		<dict>
@@ -456,7 +465,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#b85818</string>
+				<string>#b86018</string>
 			</dict>
 		</dict>
 
@@ -499,7 +508,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#b85818</string>
+				<string>#b86018</string>
 			</dict>
 		</dict>
 		<dict>
@@ -512,7 +521,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#b85818</string>
+				<string>#b86018</string>
 			</dict>
 		</dict>
 		<dict>
@@ -536,7 +545,7 @@
 				<key>fontStyle</key>
 				<string>bold italic underline</string>
 				<key>foreground</key>
-				<string>#A02010</string>
+				<string>#B83010</string>
 			</dict>
 		</dict>
 		<dict>
