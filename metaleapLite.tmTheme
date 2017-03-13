@@ -20,7 +20,7 @@
 				<key>invisibles</key>
 				<string>#dbdbdb</string>
 				<key>guide</key>
-				<string>#00ff00</string>
+				<string>#b0b0b0</string>
 
 				<!-- http://metaleap.net -->
 				<key>hoverHighlight</key>
