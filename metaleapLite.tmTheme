@@ -20,7 +20,7 @@
 				<key>invisibles</key>
 				<string>#dbdbdb</string>
 				<key>guide</key>
-				<string>#b0b0b0</string>
+				<string>#dbdbdb</string>
 
 				<!-- http://metaleap.net -->
 				<key>hoverHighlight</key>
@@ -37,7 +37,7 @@
 				<string>#ececec</string>
 
 				<key>selection</key>
-				<string>#d0e0f0</string>
+				<string>#c0d0e0</string>
 				<key>inactiveSelection</key>
 				<string>#d0d0d0</string>
 				<key>selectionHighlight</key>

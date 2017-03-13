@@ -12,7 +12,7 @@
 				<key>background</key>
 				<string>#252526</string>
 				<key>foreground</key>
-				<string>#bebebe</string>
+				<string>#ababab</string>
 
 				<key>caret</key>
 				<string>#E09050</string>
@@ -20,13 +20,13 @@
 				<key>invisibles</key>
 				<string>#303030</string>
 				<key>guide</key>
-				<string>#606060</string>
+				<string>#303030</string>
 
 				<!-- http://metaleap.net -->
 				<key>hoverHighlight</key>
-				<string>#adadad</string>
+				<string>#406080</string>
 				<key>linkForeground</key>
-				<string>#4080A0</string>
+				<string>#80B0C0</string>
 
 				<key>referenceHighlight</key>
 				<string>#804020</string>
@@ -37,9 +37,9 @@
 				<string>#F3F0F5</string>
 
 				<key>selection</key>
-				<string>#707070</string>
+				<string>#305070</string>
 				<key>inactiveSelection</key>
-				<string>#484849</string>
+				<string>#404040</string>
 				<key>selectionHighlight</key>
 				<string>#373737</string>
 
@@ -73,7 +73,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#80A0C8</string>
+				<string>#6080A0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -91,11 +91,11 @@
 			<key>name</key>
 			<string>KEYWORD: italic</string>
 			<key>scope</key>
-			<string>keyword.other.forall, keyword.control</string>
+			<string>keyword.other.forall</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string>italic bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,7 +117,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#40B0D0</string>
+				<string>#38A8C8</string>
 			</dict>
 		</dict>
 
