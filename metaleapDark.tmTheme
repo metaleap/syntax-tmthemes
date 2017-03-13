@@ -154,7 +154,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#646464</string>
+				<string>#686868</string>
 			</dict>
 		</dict>
 
@@ -352,10 +352,8 @@
 			<string>punctuation.separator, punctuation.definition.tag</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#646464</string>
+				<string>#686868</string>
 			</dict>
 		</dict>
 
