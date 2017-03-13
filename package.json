@@ -11,6 +11,10 @@
 				"label": "metaleap Dark",
 				"uiTheme": "vs-dark",
 				"path": "./metaleapDark.tmTheme"
+			}, {
+				"label": "metaleap Lite",
+				"uiTheme": "vs",
+				"path": "./metaleapLite.tmTheme"
 			}
 		]
 	}
