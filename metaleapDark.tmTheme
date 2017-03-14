@@ -56,9 +56,9 @@
 				<string>#373737</string>
 
 				<key>activeLinkForeground</key>
-				<string>#506070</string>
+				<string>#6090A0</string>
 				<key>gotoDefinitionLinkForeground</key>
-				<string>#506070</string>
+				<string>#6090A0</string>
 			</dict>
 		</dict>
 
@@ -73,7 +73,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6080A0</string>
+				<string>#6b8bAb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,7 +117,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#38A8C8</string>
+				<string>#40B0D0</string>
 			</dict>
 		</dict>
 
@@ -340,7 +340,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6080A0</string>
+				<string>#6b8bAb</string>
 			</dict>
 		</dict>
 		<dict>
