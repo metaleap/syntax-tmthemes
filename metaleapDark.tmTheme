@@ -41,7 +41,7 @@
 				<key>inactiveSelection</key>
 				<string>#404040</string>
 				<key>selectionHighlight</key>
-				<string>#373737</string>
+				<string>#305040</string>
 
 				<key>findRangeHighlight</key>
 				<string>#303031</string>
@@ -51,9 +51,9 @@
 				<string>#A04020</string>
 
 				<key>wordHighlight</key>
-				<string>#373737</string>
+				<string>#424242</string>
 				<key>wordHighlightStrong</key>
-				<string>#373737</string>
+				<string>#272829</string>
 
 				<key>activeLinkForeground</key>
 				<string>#6090A0</string>
@@ -180,7 +180,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#e0c8a0</string>
+				<string>#e0c0a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,7 +215,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#e0c8a0</string>
+				<string>#e0c0a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -380,7 +380,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e0c8a0</string>
+				<string>#e0c0a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -432,7 +432,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f8b858</string>
+				<string>#D8A080</string>
 			</dict>
 		</dict>
 
@@ -457,7 +457,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#e0c8a0</string>
+				<string>#e0c0a0</string>
 			</dict>
 		</dict>
 
@@ -500,7 +500,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#e0c8a0</string>
+				<string>#e0c0a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -513,7 +513,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#e0c8a0</string>
+				<string>#e0c0a0</string>
 			</dict>
 		</dict>
 		<dict>
