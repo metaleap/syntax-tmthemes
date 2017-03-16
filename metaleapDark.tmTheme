@@ -41,7 +41,7 @@
 				<key>inactiveSelection</key>
 				<string>#404040</string>
 				<key>selectionHighlight</key>
-				<string>#305040</string>
+				<string>#204030</string>
 
 				<key>findRangeHighlight</key>
 				<string>#303031</string>
@@ -209,7 +209,7 @@
 			<key>name</key>
 			<string>SUPPORT: keys/names in json/css; in python: classmethod/super/list/XyzException etc</string>
 			<key>scope</key>
-			<string>support.type, support.class</string>
+			<string>support.type, support.class, entity.name.type</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>

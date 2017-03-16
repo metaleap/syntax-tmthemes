@@ -18,9 +18,9 @@
 				<string>#E09050</string>
 
 				<key>invisibles</key>
-				<string>#dbdbdb</string>
+				<string>#dddddd</string>
 				<key>guide</key>
-				<string>#dbdbdb</string>
+				<string>#dddddd</string>
 
 				<!-- http://metaleap.net -->
 				<key>hoverHighlight</key>
@@ -132,7 +132,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#58A878</string>
+				<string>#509880</string>
 			</dict>
 		</dict>
 		<dict>
@@ -145,7 +145,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#c86828</string>
+				<string>#b06060</string>
 			</dict>
 		</dict>
 		<dict>
@@ -156,7 +156,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#58A878</string>
+				<string>#509880</string>
 			</dict>
 		</dict>
 		<dict>
@@ -176,13 +176,13 @@
 			<key>name</key>
 			<string>SUPPORT: keys/names in json/css; in python: classmethod/super/list/XyzException etc</string>
 			<key>scope</key>
-			<string>support.type, support.class</string>
+			<string>support.type, support.class, entity.name.type</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#c86828</string>
+				<string>#b06060</string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,7 +206,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#58A878</string>
+				<string>#509880</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -310,9 +310,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#58A878</string>
+				<string>#509880</string>
 			</dict>
 		</dict>
 		<dict>
@@ -325,7 +325,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#B02818</string>
+				<string>#c06030</string>
 			</dict>
 		</dict>
 		<dict>
@@ -361,7 +361,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#B02818</string>
+				<string>#c06030</string>
 			</dict>
 		</dict>
 
@@ -387,7 +387,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#905040</string>
+				<string>#907060</string>
 			</dict>
 		</dict>
 		<dict>
@@ -400,7 +400,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#c86828</string>
+				<string>#b06060</string>
 			</dict>
 		</dict>
 		<dict>
@@ -441,7 +441,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f06828</string>
+				<string>#D08070</string>
 			</dict>
 		</dict>
 
@@ -466,7 +466,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#c86828</string>
+				<string>#b06060</string>
 			</dict>
 		</dict>
 
@@ -509,7 +509,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#c86828</string>
+				<string>#b06060</string>
 			</dict>
 		</dict>
 		<dict>
@@ -522,7 +522,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#c86828</string>
+				<string>#b06060</string>
 			</dict>
 		</dict>
 		<dict>
@@ -533,7 +533,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#58A878</string>
+				<string>#509880</string>
 			</dict>
 		</dict>
 		<dict>
@@ -546,7 +546,7 @@
 				<key>fontStyle</key>
 				<string>bold italic underline</string>
 				<key>foreground</key>
-				<string>#B02818</string>
+				<string>#c06030</string>
 			</dict>
 		</dict>
 		<dict>
