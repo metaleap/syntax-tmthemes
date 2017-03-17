@@ -37,7 +37,7 @@
 				<string>#F3F0F5</string>
 
 				<key>selection</key>
-				<string>#305070</string>
+				<string>#204060</string>
 				<key>inactiveSelection</key>
 				<string>#404040</string>
 				<key>selectionHighlight</key>
@@ -51,9 +51,9 @@
 				<string>#A04020</string>
 
 				<key>wordHighlight</key>
-				<string>#424242</string>
+				<string>#404850</string>
 				<key>wordHighlightStrong</key>
-				<string>#272829</string>
+				<string>#406080</string>
 
 				<key>activeLinkForeground</key>
 				<string>#6090A0</string>
