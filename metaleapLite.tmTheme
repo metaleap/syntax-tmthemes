@@ -284,9 +284,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline italic</string>
+				<string>bold underline</string>
 				<key>foreground</key>
-				<string>#00ff00</string>
+				<string>#b06060</string>
 			</dict>
 		</dict>
 		<dict>
