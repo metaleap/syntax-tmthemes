@@ -12,15 +12,15 @@
 				<key>background</key>
 				<string>#f3f3f3</string>
 				<key>foreground</key>
-				<string>#7a7a7a</string>
+				<string>#606060</string>
 
 				<key>caret</key>
 				<string>#E09050</string>
 
 				<key>invisibles</key>
-				<string>#e0e0e0</string>
+				<string>#e4e4e4</string>
 				<key>guide</key>
-				<string>#e0e0e0</string>
+				<string>#e4e4e4</string>
 
 				<!-- http://metaleap.net -->
 				<key>hoverHighlight</key>
@@ -132,7 +132,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#509080</string>
+				<string>#40b090</string>
 			</dict>
 		</dict>
 		<dict>
@@ -156,7 +156,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#509080</string>
+				<string>#40b090</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,7 +217,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#509080</string>
+				<string>#40b090</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -323,7 +323,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#509080</string>
+				<string>#40b090</string>
 			</dict>
 		</dict>
 		<dict>
@@ -398,7 +398,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#506040</string>
+				<string>#405030</string>
 			</dict>
 		</dict>
 		<dict>
@@ -544,7 +544,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#509080</string>
+				<string>#40b090</string>
 			</dict>
 		</dict>
 		<dict>
