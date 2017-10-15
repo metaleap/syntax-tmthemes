@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#f9f6ef</string>
+				<string>#f7f4ed</string>
 				<key>foreground</key>
 				<string>#787878</string>
 
@@ -32,7 +32,7 @@
 				<string>#E0A080</string>
 
 				<key>lineHighlight</key>
-				<string>#e5e3e0</string>
+				<string>#e7e4dd</string>
 				<key>rangeHighlight</key>
 				<string>#ececec</string>
 
