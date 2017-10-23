@@ -10,17 +10,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#252526</string>
+				<string>#3b3630</string>
 				<key>foreground</key>
-				<string>#ababab</string>
+				<string>#bbb6b0</string>
 
 				<key>caret</key>
 				<string>#E09050</string>
 
 				<key>invisibles</key>
-				<string>#303030</string>
+				<string>#4b4640</string>
 				<key>guide</key>
-				<string>#303030</string>
+				<string>#4b4640</string>
 
 				<!-- http://metaleap.net -->
 				<key>hoverHighlight</key>
@@ -32,7 +32,7 @@
 				<string>#804020</string>
 
 				<key>lineHighlight</key>
-				<string>#303031</string>
+				<string>#4b4640</string>
 				<key>rangeHighlight</key>
 				<string>#F3F0F5</string>
 
@@ -418,7 +418,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#646464</string>
+				<string>#78746d</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
