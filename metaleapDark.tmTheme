@@ -237,28 +237,28 @@
 
 		<dict>
 			<key>name</key>
-			<string>CONSTANT in some (Python), in Haskell: data constructor, in CSS: color literals</string>
-			<key>scope</key>
-			<string>constant</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#60A090</string>
-				<key>fontStyle</key>
-				<string>italic</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Number literals; in strings: formats+interpolations+escapes</string>
 			<key>scope</key>
-			<string>constant.numeric, constant.character</string><!--constant.character.escape-->
+			<string>constant</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#c080a8</string>
 				<key>fontStyle</key>
 				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CONSTANT in some (Python), in Haskell: data constructor, in CSS: color literals</string>
+			<key>scope</key>
+			<string>constant.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#60A090</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
