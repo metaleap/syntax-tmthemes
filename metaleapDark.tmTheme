@@ -10,9 +10,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3b3630</string>
+				<string>#3b3631</string>
 				<key>foreground</key>
-				<string>#b6b1ab</string>
+				<string>#aba69f</string>
 
 				<key>caret</key>
 				<string>#E09050</string>
@@ -121,7 +121,7 @@
 				<key>foreground</key>
 				<string>#80B0C0</string>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 			</dict>
 		</dict>
 
@@ -171,7 +171,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88a890</string>
+				<string>#9b8b7b</string>
+				<key>fontStyle</key>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,7 +208,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#30b0a0</string>
+				<string>#309080</string>
 			</dict>
 		</dict>
 		<dict>
@@ -256,7 +258,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#60A090</string>
+				<string>#88a890</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -388,20 +390,20 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C89858</string>
+				<string>#D09858</string>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>TYPE VARIABLE</string>
 			<key>scope</key>
-			<string>variable.other.generic-type</string>
+			<string>variable.other</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold italic</string>
+				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -412,9 +414,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
-				<key>foreground</key>
-				<string>#C89858</string>
+				<string>bold</string>
 			</dict>
 		</dict>
 
@@ -442,7 +442,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D08868</string>
+				<string>#D0A080</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -456,7 +456,8 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#904030</string>
+				<string>#ff00ff</string>
+				<!-- 904030 -->
 			</dict>
 		</dict>
 		<dict>
@@ -469,7 +470,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#e8c898</string>
+				<string>#D09858</string>
 			</dict>
 		</dict>
 
@@ -512,7 +513,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#C89858</string>
+				<string>#D09858</string>
 			</dict>
 		</dict>
 		<dict>
@@ -525,7 +526,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#C89858</string>
+				<string>#D09858</string>
 			</dict>
 		</dict>
 		<dict>
