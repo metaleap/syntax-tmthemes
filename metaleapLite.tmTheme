@@ -181,6 +181,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
+				<key>background</key>
+				<string>#e9e6df</string>
 				<key>foreground</key>
 				<string>#b06060</string>
 			</dict>
@@ -296,6 +298,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>bold underline</string>
+				<key>background</key>
+				<string>#e9e6df</string>
 				<key>foreground</key>
 				<string>#b06060</string>
 			</dict>
@@ -308,7 +312,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>bold italic</string>
+				<key>background</key>
+				<string>#e9e6df</string>
 				<key>foreground</key>
 				<string>#e29a0a</string>
 			</dict>

@@ -300,8 +300,10 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>italic</string>
+				<key>background</key>
+				<string>#4b4641</string>
 				<key>foreground</key>
-				<string>#e8c898</string>
+				<string>#D09858</string>
 			</dict>
 		</dict>
 		<dict>
@@ -390,7 +392,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D09858</string>
+				<string>#e8c898</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -456,8 +458,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff00ff</string>
-				<!-- 904030 -->
+				<string>#D09858</string>
 			</dict>
 		</dict>
 		<dict>
@@ -469,8 +470,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#D09858</string>
 			</dict>
 		</dict>
 
