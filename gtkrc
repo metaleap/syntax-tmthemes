@@ -22,14 +22,14 @@ style "clearlooks-default"
 	GtkScale       ::trough-side-details  = 1
 	GtkScrollbar   ::min-slider-length    = 30
 
-	GtkMenuBar     ::internal-padding     = 0
+	GtkMenuBar     ::internal-padding     = 4
 	GtkExpander    ::expander-size        = 16
-	GtkToolbar     ::internal-padding     = 1
+	GtkToolbar     ::internal-padding     = 4
 	GtkTreeView    ::expander-size        = 14
 	GtkTreeView    ::vertical-separator   = 0
 
-	GtkMenu        ::horizontal-padding   = 0
-	GtkMenu        ::vertical-padding     = 0
+	GtkMenu        ::horizontal-padding   = 11
+	GtkMenu        ::vertical-padding     = 11
 
 	# Glow the tasklist by changing the color, instead of overlaying it with a rectangle
 	WnckTasklist   ::fade-overlay-rect    = 0
@@ -126,14 +126,14 @@ style "clearlooks-menu"
 	# Radius of the menu items (inside menus)
 	engine "clearlooks"
 	{
-		radius = 0.0
+		radius = 44.0
 	}
 }
 
 style "clearlooks-menu-item"
 {
-	xthickness = 2
-	ythickness = 3
+	xthickness = 8
+	ythickness = 8
 
 	fg[PRELIGHT] = @selected_fg_color
 }
@@ -145,7 +145,7 @@ style "clearlooks-separator-menu-item"
 	# There is no other way to get the odd height ...
 	GtkWidget::wide-separators = 1
 	GtkWidget::separator-width = 1
-	GtkWidget::separator-height = 5
+	GtkWidget::separator-height = 33
 	xthickness = 1
 	ythickness = 0
 }
