@@ -14,7 +14,7 @@
 			},
 			{
 				"label": "metaleap Lite",
-				"uiTheme": "vs",
+				"uiTheme": "vs-dark",
 				"path": "./metaleapLite.json"
 			}
 		]
