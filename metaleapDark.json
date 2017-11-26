@@ -22,6 +22,7 @@
         "sideBar.background": "#000000",
         "sideBarSectionHeader.background": "#804808",
         "statusBar.background": "#000000",
+        "statusBar.debuggingBackground": "#484641",
         "statusBar.noFolderBackground": "#000000",
         "tab.inactiveBackground": "#000000",
         "terminal.ansiYellow": "#804808",
