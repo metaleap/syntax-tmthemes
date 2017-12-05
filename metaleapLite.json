@@ -42,6 +42,8 @@
         "foreground": "#87837d",
         "editor.background": "#f7f4ed",
         "editor.foreground": "#87837d",
+        "peekViewResult.fileForeground": "#87837d",
+        "peekViewResult.lineForeground": "#67635d",
         "editorCursor.foreground": "#E09050",
         "editorWhitespace.foreground": "#e4e4e4",
         "editorIndentGuide.background": "#e4e4e4",
@@ -54,7 +56,6 @@
         "editor.inactiveSelectionBackground": "#d0d0d0",
         "editor.findRangeHighlightBackground": "#ececec",
         "editor.findMatchHighlightBackground": "#E0A080",
-        "peekViewResult.matchHighlightBackground": "#E0A080",
         "editor.findMatchBackground": "#C06040",
         "editor.wordHighlightBackground": "#c7c7c7",
         "editor.wordHighlightStrongBackground": "#c7c7c7"
