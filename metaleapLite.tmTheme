@@ -12,7 +12,7 @@
 				<key>background</key>
 				<string>#f7f4ed</string>
 				<key>foreground</key>
-				<string>#787878</string>
+				<string>#87837d</string>
 
 				<key>caret</key>
 				<string>#E09050</string>
@@ -51,14 +51,14 @@
 				<string>#C06040</string>
 
 				<key>wordHighlight</key>
-				<string>#c7c7c7</string>
+				<string>#ff00ff</string>
 				<key>wordHighlightStrong</key>
-				<string>#c7c7c7</string>
+				<string>#00ff00</string>
 
 				<key>activeLinkForeground</key>
-				<string>#4080B8</string>
+				<string>#ff0000</string>
 				<key>gotoDefinitionLinkForeground</key>
-				<string>#4080B0</string>
+				<string>#ff0000</string>
 			</dict>
 		</dict>
 

@@ -1,6 +1,6 @@
 {
 	"name": "syntax-tmthemes",
-	"version": "1.0.5",
+	"version": "1.0.7",
 	"publisher": "metaleap",
 	"engines": {
 		"vscode": "*"
@@ -8,14 +8,14 @@
 	"contributes": {
 		"themes": [
 			{
+				"label": "metaleap Lite",
+				"uiTheme": "vs",
+				"path": "./metaleapLite.json"
+			},
+			{
 				"label": "metaleap Dark",
 				"uiTheme": "vs-dark",
 				"path": "./metaleapDark.json"
-			},
-			{
-				"label": "metaleap Lite",
-				"uiTheme": "vs-dark",
-				"path": "./metaleapLite.json"
 			}
 		]
 	}
