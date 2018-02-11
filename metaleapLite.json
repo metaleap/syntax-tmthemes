@@ -30,7 +30,7 @@
         "foreground": "#54504a",
         "editor.background": "#f7f4ed",
         "editor.foreground": "#87837d",
-        "editorIndentGuide.background": "#e4e4e4",
+        "editorIndentGuide.background": "#ebebeb",
         "editor.selectionBackground": "#c0d0e0",
         "editor.inactiveSelectionBackground": "#d0d0d0",
 
