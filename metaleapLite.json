@@ -33,21 +33,17 @@
         "editorIndentGuide.background": "#ebebeb",
         "editor.selectionBackground": "#c0d0e0",
         "editor.inactiveSelectionBackground": "#d0d0d0",
-
         "editor.findMatchBackground": "#e0a870",
-        "editor.findMatchHighlightBackground": "#f0d8a0",
-        "editor.selectionHighlightBackground": "#f0d8a0",
+        "editor.findMatchHighlightBackground": "#e3e9ed",
+        "editor.selectionHighlightBackground": "#e3e9ed",
         "editorOverviewRuler.wordHighlightForeground": "#f0e8d8",
         "editor.rangeHighlightBackground": "#f0e8d8",
         "editor.findRangeHighlightBackground": "#00ff00",
-
         "editor.hoverHighlightBackground": "#e7e3dd",
         "peekViewEditor.matchHighlightBackground": "#ffff00",
-
-        "editor.lineHighlightBackground": "#e7e3dd",
+        "editor.lineHighlightBackground": "#ede9e3",
         "editor.wordHighlightBackground": "#e0a870",
-        "editor.wordHighlightStrongBackground": "#f0d8a0",
-
+        "editor.wordHighlightStrongBackground": "#e3e9ed",
         "editorLink.activeForeground": "#4080B8",
         "editorHoverWidget.background": "#e7e3dd"
     },

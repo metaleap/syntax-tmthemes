@@ -460,9 +460,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e08010</string>
+				<string>#d09010</string>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>bold</string>
 			</dict>
 		</dict>
 
