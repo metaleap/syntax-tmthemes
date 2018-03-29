@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=metaleap
+Type=X-GNOME-Metatheme
+Comment=metaleap
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=metaleap
+MetacityTheme=Clearlooks
+IconTheme=Foxtrot
