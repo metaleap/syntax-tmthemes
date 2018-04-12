@@ -19,7 +19,7 @@
         "peekViewTitle.background": "#e7e3dd",
         "progressBar.background": "#803808",
         "sideBar.background": "#e7e3dd",
-        "sideBarSectionHeader.background": "#d7d3cd",
+        "sideBarSectionHeader.background": "#c0d0e0",
         "statusBar.background": "#000000",
         "statusBar.debuggingBackground": "#484641",
         "statusBar.noFolderBackground": "#000000",
