@@ -56,7 +56,9 @@
         "peekViewResult.matchHighlightBackground": "#804020",
         "editor.findMatchBackground": "#A04020",
         "editor.wordHighlightBackground": "#404850",
-        "editor.wordHighlightStrongBackground": "#406080"
+        "editor.wordHighlightStrongBackground": "#406080",
+        "editorSuggestWidget.background": "#2f2c28",
+        "editorSuggestWidget.selectedBackground": "#804808"
     },
     "name": "metaleapDark"
 }
