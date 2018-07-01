@@ -10,9 +10,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3b3631</string>
+				<string>#4A4540</string>
 				<key>foreground</key>
-				<string>#bfbab5</string>
+				<string>#c8c5c1</string>
 
 				<key>caret</key>
 				<string>#E09050</string>
@@ -32,7 +32,7 @@
 				<string>#804020</string>
 
 				<key>lineHighlight</key>
-				<string>#2f2A25</string>
+				<string>#3c3935</string>
 				<key>rangeHighlight</key>
 				<string>#F3F0F5</string>
 
@@ -426,7 +426,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#747069</string>
+				<string>#7c7871</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
