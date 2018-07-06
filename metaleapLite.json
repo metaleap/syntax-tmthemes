@@ -46,7 +46,10 @@
         "editor.wordHighlightBackground": "#e0a870",
         "editor.wordHighlightStrongBackground": "#e3e9ed",
         "editorLink.activeForeground": "#4080B8",
-        "editorHoverWidget.background": "#dfdbd5"
+        "editorHoverWidget.background": "#dfdbd5",
+        "editorSuggestWidget.highlightForeground": "#c06030",
+        "editorSuggestWidget.background": "#dfdbd5",
+        "editorSuggestWidget.selectedBackground": "#cfcbc5"
     },
     "name": "metaleapLite"
 }
