@@ -51,14 +51,14 @@ p['color.ml_turq2'] = 0xc0b080 -- '#80B0C0'
 -- Predefined styles.
 p['style.default'] = 'font:$(font),size:$(fontsize),fore:$(color.ml_fore),back:$(color.ml_back)'
 p['style.linenumber'] = 'fore:$(color.ml_gred3),back:$(color.ml_back),size:11'
--- p['style.controlchar'] = 'fore:$(color.ml_nope)'
-p['style.indentguide'] = 'fore:$(color.ml_gred4)'
-p['style.calltip'] = 'fore:$(color.ml_nope),back:$(color.ml_err)'
+p['style.controlchar'] = 'fore:$(color.ml_nope)'
+p['style.indentguide'] = 'fore:$(color.ml_gred3)'
+p['style.calltip'] = 'fore:$(color.ml_ui_infoforedark),back:$(color.ml_ui_infoback)'
 p['style.folddisplaytext'] = 'fore:$(color.ml_nope)'
 
 -- Token styles.
 p['style.class'] = 'fore:$(color.ml_ored1)'
-p['style.comment'] = 'fore:$(color.ml_gred3)'
+p['style.comment'] = 'fore:$(color.ml_gred1)'
 p['style.constant'] = 'fore:$(color.ml_ored4),italics'
 p['style.embedded'] = '$(style.keyword),back:$(color.ml_nope)'
 p['style.error'] = 'fore:$(color.ml_err)'
@@ -92,14 +92,14 @@ buffer:set_fold_margin_hi_colour(true, pi['color.ml_back'])
 
 -- Markers.
 local MARK_BOOKMARK = textadept.bookmarks.MARK_BOOKMARK
---buffer.marker_fore[MARK_BOOKMARK] = pi['color.black']
-buffer.marker_back[MARK_BOOKMARK] = pi['color.dark_blue']
---buffer.marker_fore[textadept.run.MARK_WARNING] = pi['color.black']
-buffer.marker_back[textadept.run.MARK_WARNING] = pi['color.yellow']
---buffer.marker_fore[textadept.run.MARK_ERROR] = pi['color.black']
-buffer.marker_back[textadept.run.MARK_ERROR] = pi['color.red']
+buffer.marker_fore[MARK_BOOKMARK] = pi['color.ml_highlight3']
+buffer.marker_back[MARK_BOOKMARK] = pi['color.ml_highlight5']
+--buffer.marker_fore[textadept.run.MARK_WARNING] = pi['color.ml_nope']
+buffer.marker_back[textadept.run.MARK_WARNING] = pi['color.ml_nope']
+--buffer.marker_fore[textadept.run.MARK_ERROR] = pi['color.ml_nope']
+buffer.marker_back[textadept.run.MARK_ERROR] = pi['color.ml_nope']
 for i = 25, 31 do -- fold margin markers
-    buffer.marker_fore[i] = pi['color.ml_gred1']
+    buffer.marker_fore[i] = pi['color.ml_back']
     buffer.marker_back[i] = pi['color.ml_gred3']
     buffer.marker_back_selected[i] = pi['color.ml_nope']
 end
@@ -109,12 +109,12 @@ buffer.indic_fore[ui.find.INDIC_FIND] = pi['color.ml_nope']
 local INDIC_BRACEMATCH = textadept.editing.INDIC_BRACEMATCH
 buffer.indic_fore[INDIC_BRACEMATCH] = pi['color.ml_gred1']
 local INDIC_HIGHLIGHT = textadept.editing.INDIC_HIGHLIGHT
-buffer.indic_fore[INDIC_HIGHLIGHT] = pi['color.ml_nope']
+buffer.indic_fore[INDIC_HIGHLIGHT] = pi['color.ml_highlight5']
 local INDIC_PLACEHOLDER = textadept.snippets.INDIC_PLACEHOLDER
 buffer.indic_fore[INDIC_PLACEHOLDER] = pi['color.ml_nope']
 
 -- Call tips.
--- buffer.call_tip_fore_hlt = pi['color.light_blue']
+buffer.call_tip_fore_hlt = pi['color.ml_nope']
 
 -- Long Lines.
-buffer.edge_colour = pi['color.ml_nope']
+buffer.edge_colour = pi['color.ml_gred4']
