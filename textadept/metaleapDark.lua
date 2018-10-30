@@ -1,3 +1,5 @@
+-- theme for the marvellous (non-Electron & non-Python & foss & BSD-compatible) `textadept` editor
+
 local buffer = buffer
 local p, pi = buffer.property, buffer.property_int
 
@@ -60,7 +62,7 @@ p['style.folddisplaytext'] = 'fore:$(color.ml_nope)'
 p['style.class'] = 'fore:$(color.ml_ored1)'
 p['style.comment'] = 'fore:$(color.ml_gred1)'
 p['style.constant'] = 'fore:$(color.ml_ored4),italics'
-p['style.embedded'] = '$(style.keyword),back:$(color.ml_nope)'
+p['style.embedded'] = '$(style.keyword),back:$(color.ml_ui_dark1)'
 p['style.error'] = 'fore:$(color.ml_err)'
 p['style.function'] = 'fore:$(color.ml_ored2)'
 p['style.identifier'] = ''
@@ -114,7 +116,7 @@ local INDIC_PLACEHOLDER = textadept.snippets.INDIC_PLACEHOLDER
 buffer.indic_fore[INDIC_PLACEHOLDER] = pi['color.ml_nope']
 
 -- Call tips.
-buffer.call_tip_fore_hlt = pi['color.ml_nope']
+buffer.call_tip_fore_hlt = pi['color.ml_ored4']
 
 -- Long Lines.
 buffer.edge_colour = pi['color.ml_gred4']
