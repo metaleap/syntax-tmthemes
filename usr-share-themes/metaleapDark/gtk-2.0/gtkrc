@@ -1,23 +1,23 @@
-gtk_color_scheme = "fg_color:#7c7871\nbg_color:#3f3c38\nbase_color:#4F4C48\ntext_color:#a7a4a0\nselected_bg_color:#804808\nselected_fg_color:#bbab9b\ntooltip_bg_color:#a0c0d0\ntooltip_fg_color:#204050"
+gtk_color_scheme = "fg_color:#7f7b74\nbg_color:#3f3c38\nbase_color:#4F4C48\ntext_color:#a7a4a0\nselected_bg_color:#804808\nselected_fg_color:#bbab9b\ntooltip_bg_color:#a0c0d0\ntooltip_fg_color:#204050"
 
 style "metaleap-default"
 {
 	fg[NORMAL]        = @fg_color
-	fg[PRELIGHT]      = @fg_color
+	fg[PRELIGHT]      = shade(1.23, @fg_color)
 	fg[SELECTED]      = @selected_fg_color
 	fg[ACTIVE]        = @fg_color
 	fg[INSENSITIVE]   = darker(darker(@bg_color))
 
 	bg[NORMAL]        = @bg_color
-	bg[PRELIGHT]      = shade (1.02, @bg_color)
+	bg[PRELIGHT]      = shade (0.123, @bg_color)
 	bg[SELECTED]	  = @selected_bg_color
-	bg[ACTIVE]        = shade (0.9, @bg_color)
+	bg[ACTIVE]        = shade (0.8, @bg_color)
 	bg[INSENSITIVE]   = @bg_color
 
 	base[NORMAL]      = @base_color
-	base[PRELIGHT]    = shade (0.95, @bg_color)
+	base[PRELIGHT]    = shade (1.23, @bg_color)
 	base[SELECTED]    = @selected_bg_color
-	base[ACTIVE]      = shade (0.9, @selected_bg_color)
+	base[ACTIVE]      = shade (0.88, @selected_bg_color)
 	base[INSENSITIVE] = @bg_color
 
 	text[NORMAL]      = @text_color
@@ -50,7 +50,7 @@ style "metaleap-menu-item"
 
 style "metaleap-frame-title"
 {
-	fg[NORMAL] = lighter (@fg_color)
+	fg[NORMAL] = lighter(@fg_color)
 }
 
 style "metaleap-tooltips"
