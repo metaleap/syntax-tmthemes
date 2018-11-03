@@ -7,7 +7,7 @@ p['color.ml_nope'] = 0x00ff00
 p['color.ml_err'] = 0x0000ff
 
 p['color.ml_back'] = 0x484C4F -- '#4F4C48'
-p['color.ml_fore'] = 0xc0c4c7 -- '#c7c4c0'
+p['color.ml_fore'] = 0xb0b4b7 -- '#b7b4b0'
 
 p['color.ml_caret'] = 0x5090E0 -- '#E09050'
 p['color.ml_guide'] = 0x373d42 -- '#423d37'
