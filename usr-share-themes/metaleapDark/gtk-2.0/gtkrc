@@ -1,4 +1,5 @@
-gtk_color_scheme = "fg_color:#7f7b74\nbg_color:#3f3c38\nbase_color:#4F4C48\ntext_color:#a7a4a0\nselected_bg_color:#804808\nselected_fg_color:#bbab9b\ntooltip_bg_color:#a0c0d0\ntooltip_fg_color:#204050"
+gtk_color_scheme = "fg_color:#8f8b84\nbg_color:#3f3c38\nbase_color:#4F4C48\ntext_color:#a7a4a0\nselected_bg_color:#804808\nselected_fg_color:#bbab9b\ntooltip_bg_color:#a0c0d0\ntooltip_fg_color:#204050"
+
 
 style "metaleap-default"
 {
@@ -11,7 +12,7 @@ style "metaleap-default"
 	bg[NORMAL]        = @bg_color
 	bg[PRELIGHT]      = shade (0.123, @bg_color)
 	bg[SELECTED]	  = @selected_bg_color
-	bg[ACTIVE]        = shade (0.8, @bg_color)
+	bg[ACTIVE]        = shade (0.77, @bg_color)
 	bg[INSENSITIVE]   = @bg_color
 
 	base[NORMAL]      = @base_color
@@ -43,6 +44,16 @@ style "metaleap-menu"
 
 style "metaleap-menu-item"
 {
+    xthickness = 11
+    ythickness = 9
+	bg[PRELIGHT] = @selected_bg_color
+	fg[PRELIGHT] = @selected_fg_color
+}
+
+style "metaleap-menu-item-sep"
+{
+    xthickness = 11
+    ythickness = 4
 	bg[PRELIGHT] = @selected_bg_color
 	fg[PRELIGHT] = @selected_fg_color
 }
@@ -67,6 +78,7 @@ style "metaleap-progressbar"
 
 style "metaleap-menubar"
 {
+    xthickness = 11
 	bg[NORMAL] = '#000000'
 	fg[NORMAL] = @selected_fg_color
 }
@@ -78,6 +90,7 @@ widget_class "*<GtkButton>"      style "metaleap-button"
 widget_class "*<GtkMenuBar>*"           style "metaleap-menubar"
 widget_class "*<GtkMenu>*"              style "metaleap-menu"
 widget_class "*<GtkMenuItem>*"          style "metaleap-menu-item"
+widget_class "*<GtkSeparatorMenuItem>*" style "metaleap-menu-item-sep"
 widget_class "*.<GtkFrame>.<GtkLabel>" style "metaleap-frame-title"
 widget_class "*<GtkProgressBar>"       style "metaleap-progressbar"
 widget "gtk-tooltip*" style "metaleap-tooltips"
