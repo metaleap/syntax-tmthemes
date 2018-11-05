@@ -16,6 +16,7 @@ p['color.ml_highlight2'] = 0x204080 -- '#804020'
 p['color.ml_highlight3'] = 0xf5f0f3 -- '#F3F0F5'
 p['color.ml_highlight4'] = 0x504840 -- '#404850'
 p['color.ml_highlight5'] = 0x2040a0 -- '#A04020'
+p['color.ml_highlight6'] = 0x585C5F -- '#5F5C58'
 p['color.ml_highlightLine1'] = 0x35393c -- '#3c3935'
 p['color.ml_highlightLine2'] = 0x404447 -- '#474440'
 p['color.ml_highlightSelection'] = 0x304020 -- '#204030'
@@ -111,7 +112,8 @@ buffer.indic_fore[ui.find.INDIC_FIND] = pi['color.ml_nope']
 local INDIC_BRACEMATCH = textadept.editing.INDIC_BRACEMATCH
 buffer.indic_fore[INDIC_BRACEMATCH] = pi['color.ml_gred1']
 local INDIC_HIGHLIGHT = textadept.editing.INDIC_HIGHLIGHT
-buffer.indic_fore[INDIC_HIGHLIGHT] = pi['color.ml_highlight5']
+buffer.indic_fore[INDIC_HIGHLIGHT] = pi['color.ml_highlight6']
+buffer.indic_alpha[INDIC_HIGHLIGHT] = 128
 local INDIC_PLACEHOLDER = textadept.snippets.INDIC_PLACEHOLDER
 buffer.indic_fore[INDIC_PLACEHOLDER] = pi['color.ml_nope']
 
