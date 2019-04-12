@@ -104,7 +104,7 @@
 			<key>name</key>
 			<string>KEYWORD: signature operators</string>
 			<key>scope</key>
-			<string>keyword.other.double-colon, keyword.other.big-arrow, keyword.other.arrow</string>
+			<string>keyword.other, keyword.other.double-colon, keyword.other.big-arrow, keyword.other.arrow</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -169,7 +169,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8cacbc</string>
+				<string>#5898f8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -321,6 +321,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Def</string>
+			<key>scope</key>
+			<string>entity.other.definition</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic underline</string>
+				<key>background</key>
+				<string>#59564f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>META</string>
 			<key>scope</key>
 			<string>meta.block entity.name.function</string>
@@ -387,11 +400,11 @@
 			<key>name</key>
 			<string>PUNCT</string>
 			<key>scope</key>
-			<string>punctuation.separator, punctuation.definition.tag</string>
+			<string>punctuation</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A8B0A8</string>
+				<string>#98A098</string>
 			</dict>
 		</dict>
 

@@ -374,7 +374,7 @@
 			<key>name</key>
 			<string>PUNCT</string>
 			<key>scope</key>
-			<string>punctuation, punctuation.separator, punctuation.definition.tag</string>
+			<string>punctuation</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
