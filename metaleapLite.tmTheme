@@ -612,6 +612,154 @@
 				<string>#c99009</string>
 			</dict>
 		</dict>
+
+
+
+		<dict>
+			<key>name</key>
+			<string>dbg.red1</string>
+			<key>scope</key>
+			<string>dbg.red1</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#880000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.red2</string>
+			<key>scope</key>
+			<string>dbg.red2</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#AA0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.red3</string>
+			<key>scope</key>
+			<string>dbg.red3</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.red4</string>
+			<key>scope</key>
+			<string>dbg.red4</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EE0000</string>
+			</dict>
+		</dict>
+
+
+
+		<dict>
+			<key>name</key>
+			<string>dbg.blu1</string>
+			<key>scope</key>
+			<string>dbg.blu1</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000088</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.blu2</string>
+			<key>scope</key>
+			<string>dbg.blu2</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000AA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.blu3</string>
+			<key>scope</key>
+			<string>dbg.blu3</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000CC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.blu4</string>
+			<key>scope</key>
+			<string>dbg.blu4</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#0000EE</string>
+			</dict>
+		</dict>
+
+
+
+
+		<dict>
+			<key>name</key>
+			<string>dbg.gre1</string>
+			<key>scope</key>
+			<string>dbg.gre1</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008800</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.gre2</string>
+			<key>scope</key>
+			<string>dbg.gre2</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00AA00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.gre3</string>
+			<key>scope</key>
+			<string>dbg.gre3</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00CC00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.gre4</string>
+			<key>scope</key>
+			<string>dbg.gre4</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00EE00</string>
+			</dict>
+		</dict>
+
+
 	</array>
 	<key>uuid</key>
 	<string>96A92F4B-E068-4DC6-9635-F55E7D920420</string>
