@@ -166,8 +166,6 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#5898f8</string>
 			</dict>
@@ -323,13 +321,35 @@
 			<key>name</key>
 			<string>Def</string>
 			<key>scope</key>
-			<string>entity.other.definition</string>
+			<string>entity.other.definition.local</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold italic underline</string>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Def</string>
+			<key>scope</key>
+			<string>entity.other.definition.toplevel</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>background</key>
 				<string>#59564f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Def</string>
+			<key>scope</key>
+			<string>entity.other.definition.toplevel.meta</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
