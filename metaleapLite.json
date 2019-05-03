@@ -43,7 +43,7 @@
         "editor.findRangeHighlightBackground": "#00ff00",
         "editor.hoverHighlightBackground": "#dfdbd8",
         "peekViewEditor.matchHighlightBackground": "#ffff00",
-        "editor.lineHighlightBackground": "#dfdbd8",
+        "editor.lineHighlightBackground": "#e8e4e0",
         "editor.wordHighlightBackground": "#e0a870",
         "editor.wordHighlightStrongBackground": "#e3e9ed",
         "editorLink.activeForeground": "#4080B8",
