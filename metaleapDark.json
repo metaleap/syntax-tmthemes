@@ -48,7 +48,7 @@
         "editorLink.foreground": "#80B0C0",
         "peekViewEditor.matchHighlightBackground": "#804020",
         "editor.lineHighlightBackground": "#474440",
-        "editor.rangeHighlightBackground": "#F3F0F5",
+        "editor.rangeHighlightBackground": "#303031",
         "editor.selectionBackground": "#3b5b7b",
         "editor.inactiveSelectionBackground": "#404040",
         "editor.findRangeHighlightBackground": "#303031",
