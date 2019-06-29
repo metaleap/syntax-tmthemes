@@ -116,6 +116,8 @@
 			<string>keyword.control</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#98cdbf</string>
 			</dict>
