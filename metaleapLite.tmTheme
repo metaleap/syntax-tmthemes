@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#f8f4f0</string>
+				<string>#f8f4f1</string>
 				<key>foreground</key>
 				<string>#6f6b68</string>
 
@@ -18,42 +18,42 @@
 				<string>#7090c0</string>
 
 				<key>invisibles</key>
-				<string>#d8d4d0</string>
+				<string>#d8d4d1</string>
 				<key>guide</key>
-				<string>#d8d4d0</string>
+				<string>#d8d4d1</string>
 
 				<!-- http://metaleap.net -->
 				<key>hoverHighlight</key>
-				<string>#dbdbdb</string>
+				<string>#d8d4d1</string>
 				<key>linkForeground</key>
 				<string>#4080C0</string>
 
 				<key>referenceHighlight</key>
-				<string>#E0A080</string>
+				<string>#d8d4d1</string>
 
 				<key>lineHighlight</key>
-				<string>#e8e4e0</string>
+				<string>#e8e4e1</string>
 				<key>rangeHighlight</key>
-				<string>#ececec</string>
+				<string>#d8d4d1</string>
 
 				<key>selection</key>
 				<string>#c0d0e0</string>
 				<key>inactiveSelection</key>
 				<string>#d0d0d0</string>
 				<key>selectionHighlight</key>
-				<string>#c8d8b8</string>
+				<string>#d8d4d1</string>
 
 				<key>findRangeHighlight</key>
-				<string>#ececec</string>
+				<string>#d8d4d1</string>
 				<key>findMatchHighlight</key>
-				<string>#E0A080</string>
+				<string>#d8d4d1</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#C06040</string>
+				<string>#d8d4d1</string>
 
 				<key>wordHighlight</key>
-				<string>#ff00ff</string>
+				<string>#d8d4d1</string>
 				<key>wordHighlightStrong</key>
-				<string>#00ff00</string>
+				<string>#d8d4d1</string>
 
 				<key>activeLinkForeground</key>
 				<string>#ff0000</string>
