@@ -17,16 +17,16 @@
         "panelTitle.activeForeground": "#6b8bab",
         "peekViewEditor.background": "#2f2c28",
         "peekViewResult.background": "#3f3c38",
-        "peekViewResult.selectionBackground": "#804808",
-        "progressBar.background": "#804808",
+        "peekViewResult.selectionBackground": "#583818",
+        "progressBar.background": "#583818",
         "sideBar.background": "#3f3c38",
-        "sideBarSectionHeader.background": "#804808",
+        "sideBarSectionHeader.background": "#583818",
         "statusBar.background": "#000000",
         "statusBar.debuggingBackground": "#4F4C48",
         "statusBar.noFolderBackground": "#000000",
         "tab.inactiveBackground": "#2f2c28",
         "terminal.background": "#2f2c28",
-        "terminal.ansiYellow": "#804808",
+        "terminal.ansiYellow": "#583818",
         "terminal.foreground": "#b7b4b0",
         "titleBar.activeBackground": "#000000",
         "titleBar.inactiveBackground": "#000000",
@@ -59,7 +59,7 @@
         "editor.wordHighlightStrongBackground": "#406080",
         "editorSuggestWidget.highlightForeground": "#90b098",
         "editorSuggestWidget.background": "#2f2c28",
-        "editorSuggestWidget.selectedBackground": "#804808"
+        "editorSuggestWidget.selectedBackground": "#583818"
     },
     "name": "metaleapDark"
 }
