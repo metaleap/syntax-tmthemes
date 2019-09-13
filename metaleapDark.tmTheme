@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#4c4a48</string>
+				<string>#4b4a49</string>
 				<key>foreground</key>
 				<string>#b7b4b0</string>
 
@@ -327,7 +327,7 @@
 				<key>fontStyle</key>
 				<string>bold underline</string>
 				<key>foreground</key>
-				<string>#B86838</string>
+				<string>#A86838</string>
 			</dict>
 		</dict>
 		<dict>
@@ -363,7 +363,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#B86838</string>
+				<string>#A86838</string>
 			</dict>
 		</dict>
 
@@ -548,7 +548,7 @@
 				<key>fontStyle</key>
 				<string>bold italic underline</string>
 				<key>foreground</key>
-				<string>#B86838</string>
+				<string>#A86838</string>
 			</dict>
 		</dict>
 		<dict>
