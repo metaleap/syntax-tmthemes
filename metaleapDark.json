@@ -65,7 +65,7 @@
         "editor.hoverHighlightBackground": "#3f3b38",
         "editorLink.foreground": "#8fafcf",
         "peekViewEditor.matchHighlightBackground": "#804020",
-        "selection.background": "#3b3734",
+        "selection.background": "#5b5754",
         "editor.selectionBackground": "#3b3734",
         "editor.lineHighlightBackground": "#474340",
         "editor.rangeHighlightBackground": "#303031",
