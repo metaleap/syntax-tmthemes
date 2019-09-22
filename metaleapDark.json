@@ -66,6 +66,7 @@
         "editorIndentGuide.background": "#474340",
         "editor.hoverHighlightBackground": "#3f3b38",
         "editorLink.foreground": "#8fafcf",
+        "editorLink.activeForeground": "#8fafcf",
         "peekViewEditor.matchHighlightBackground": "#804020",
         "selection.background": "#5b5754",
         "editor.selectionBackground": "#3b3734",
