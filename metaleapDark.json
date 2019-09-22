@@ -33,7 +33,7 @@
         "notifications.background": "#3f3b38",
         "notifications.foreground": "#afaba8",
         "panelTitle.activeForeground": "#8babcb",
-        "peekViewEditor.background": "#2f2b28",
+        "peekViewEditor.background": "#3f3b38",
         "peekViewResult.background": "#3f3b38",
         "peekViewResult.selectionBackground": "#583818",
         "progressBar.background": "#583818",
