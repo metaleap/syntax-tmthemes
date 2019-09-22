@@ -19,7 +19,7 @@
         "pickerGroup.foreground": "#8babcb",
         "activityBar.background": "#000000",
         "editorGroupHeader.noTabsBackground": "#000000",
-        "editorGroup.background": "#000000",
+        "editorGroup.emptyBackground": "#000000",
         "editorGroupHeader.tabsBackground": "#000000",
         "panel.background": "#3f3b38",
         "list.highlightForeground": "#D09858",
@@ -35,7 +35,7 @@
         "panelTitle.activeForeground": "#8babcb",
         "peekViewEditor.background": "#3f3b38",
         "peekView.border": "#D09858",
-        "peekViewTitle.background": "#3f3b38"
+        "peekViewTitle.background": "#3f3b38",
         "peekViewResult.background": "#3f3b38",
         "peekViewResult.selectionBackground": "#583818",
         "progressBar.background": "#583818",
