@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#4f4745</string>
+				<string>#4f4645</string>
 				<key>foreground</key>
 				<string>#b7b3b0</string>
 
@@ -31,8 +31,6 @@
 				<key>referenceHighlight</key>
 				<string>#804020</string>
 
-				<key>lineHighlight</key>
-				<string>#3c3935</string>
 				<key>rangeHighlight</key>
 				<string>#F3F0F5</string>
 
