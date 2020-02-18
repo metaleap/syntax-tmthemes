@@ -18,9 +18,9 @@
 				<string>#E09050</string>
 
 				<key>invisibles</key>
-				<string>#423d37</string>
+				<string>#474340</string>
 				<key>guide</key>
-				<string>#423d37</string>
+				<string>#474340</string>
 
 				<!-- http://metaleap.net -->
 				<key>hoverHighlight</key>
@@ -29,34 +29,34 @@
 				<string>#89abcd</string>
 
 				<key>referenceHighlight</key>
-				<string>#804020</string>
+				<string>#3b3734</string>
 
 				<key>rangeHighlight</key>
-				<string>#F3F0F5</string>
+				<string>#3a3130</string>
 
 				<key>selection</key>
-				<string>#204060</string>
+				<string>#3b3734</string>
 				<key>inactiveSelection</key>
 				<string>#404040</string>
 				<key>selectionHighlight</key>
-				<string>#204030</string>
+				<string>#3b3734</string>
 
 				<key>findRangeHighlight</key>
-				<string>#303031</string>
+				<string>#3a3130</string>
 				<key>findMatchHighlight</key>
 				<string>#804020</string>
 				<key>currentFindMatchHighlight</key>
 				<string>#A04020</string>
 
 				<key>wordHighlight</key>
-				<string>#404850</string>
+				<string>#3b3734</string>
 				<key>wordHighlightStrong</key>
-				<string>#406080</string>
+				<string>#2f2625</string>
 
 				<key>activeLinkForeground</key>
-				<string>#6090A0</string>
+				<string>#8fafcf</string>
 				<key>gotoDefinitionLinkForeground</key>
-				<string>#6090A0</string>
+				<string>#8fafcf</string>
 			</dict>
 		</dict>
 
