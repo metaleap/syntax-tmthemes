@@ -29,7 +29,7 @@
         "editor.findMatchHighlightBackground": "#d8d2d1",
         "editor.selectionHighlightBackground": "#d8d2d1",
         "editorOverviewRuler.wordHighlightForeground": "#f0e8d8",
-        "editor.rangeHighlightBackground": "#f0e8d8",
+        "editor.rangeHighlightBackground": "#dfd9d8",
         "editor.findRangeHighlightBackground": "#00ff00",
         "editor.hoverHighlightBackground": "#d8d2d1",
         "peekViewEditor.matchHighlightBackground": "#ffff00",
