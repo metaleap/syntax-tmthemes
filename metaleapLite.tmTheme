@@ -10,55 +10,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#f8f2f1</string>
+				<string>#efe9e8</string>
 				<key>foreground</key>
-				<string>#6f6b68</string>
-
-				<key>caret</key>
-				<string>#7090c0</string>
-
-				<key>invisibles</key>
-				<string>#d8d2d1</string>
-				<key>guide</key>
-				<string>#d8d2d1</string>
-
-				<!-- http://metaleap.net -->
-				<key>hoverHighlight</key>
-				<string>#d8d2d1</string>
-				<key>linkForeground</key>
-				<string>#4080C0</string>
-
-				<key>referenceHighlight</key>
-				<string>#d8d2d1</string>
-
-				<key>lineHighlight</key>
-				<string>#e8e2e1</string>
-				<key>rangeHighlight</key>
-				<string>#d8d2d1</string>
-
-				<key>selection</key>
-				<string>#c0d0e0</string>
-				<key>inactiveSelection</key>
-				<string>#d0d0d0</string>
-				<key>selectionHighlight</key>
-				<string>#d8d2d1</string>
-
-				<key>findRangeHighlight</key>
-				<string>#d8d2d1</string>
-				<key>findMatchHighlight</key>
-				<string>#d8d2d1</string>
-				<key>currentFindMatchHighlight</key>
-				<string>#d8d2d1</string>
-
-				<key>wordHighlight</key>
-				<string>#d8d2d1</string>
-				<key>wordHighlightStrong</key>
-				<string>#d8d2d1</string>
-
-				<key>activeLinkForeground</key>
-				<string>#ff0000</string>
-				<key>gotoDefinitionLinkForeground</key>
-				<string>#ff0000</string>
+				<string>#787471</string>
 			</dict>
 		</dict>
 
@@ -75,7 +29,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#7090c0</string>
+				<string>#A06008</string>
 			</dict>
 		</dict>
 		<dict>
@@ -87,6 +41,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>bold italic</string>
+				<key>foreground</key>
+				<string>#7090c0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -230,7 +186,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#C080B8</string>
+				<string>#B070A8</string>
 			</dict>
 		</dict>
 		<dict>
