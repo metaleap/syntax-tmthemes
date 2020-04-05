@@ -17,7 +17,7 @@
         "statusBar.debuggingBackground": "#484641",
         "statusBar.noFolderBackground": "#000000",
         "tab.inactiveBackground": "#dfd8d7",
-        "terminal.ansiYellow": "#b07838",
+        "terminal.ansiBrightBlack": "#bfb8b7",
         "terminal.foreground": "#6f6b68",
         "statusBar.foreground": "#dfd8d7",
         "editor.background": "#efe8e7",
