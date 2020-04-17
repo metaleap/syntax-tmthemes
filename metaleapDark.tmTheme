@@ -332,6 +332,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Function name</string>
+			<key>scope</key>
+			<string>entity.name.function.call</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#a8b0a0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>ENTITY</string>
 			<key>scope</key>
 			<string>entity.name.function.infix</string>
