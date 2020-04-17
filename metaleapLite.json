@@ -1,6 +1,8 @@
 {
     "tokenColors": "./metaleapLite.tmTheme",
     "colors": {
+        "quickInput.background": "#dfd8d7",
+        "quickInputTitle.background": "#9f9b98",
         "titleBar.activeBackground": "#dfd8d7",
         "activityBar.background": "#000000",
         "editorGroupHeader.noTabsBackground": "#dfd8d7",
