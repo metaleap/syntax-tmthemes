@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#4d4342</string>
+				<string>#4e4242</string>
 				<key>foreground</key>
 				<string>#b7b3b0</string>
 
@@ -51,7 +51,7 @@
 				<key>wordHighlight</key>
 				<string>#3b3734</string>
 				<key>wordHighlightStrong</key>
-				<string>#2d2322</string>
+				<string>#2e2222</string>
 
 				<key>activeLinkForeground</key>
 				<string>#8fafcf</string>
