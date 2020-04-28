@@ -13,6 +13,11 @@
 				"path": "./metaleapLite.json"
 			},
 			{
+				"label": "metaleap Mono",
+				"uiTheme": "vs-dark",
+				"path": "./metaleapMono.json"
+			},
+			{
 				"label": "metaleap Dark",
 				"uiTheme": "vs-dark",
 				"path": "./metaleapDark.json"
