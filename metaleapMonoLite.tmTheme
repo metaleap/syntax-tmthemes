@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>metaleapLite</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#efe9e8</string>
+				<key>foreground</key>
+				<string>#787471</string>
+			</dict>
+		</dict>
+
+
+
+		<dict>
+			<key>name</key>
+			<string>KEYWORD: control flow</string>
+			<key>scope</key>
+			<string>keyword.control</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KEYWORD: op</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#585451</string>
+			</dict>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>SUPPORT: module name for `module` and `import`</string>
+			<key>scope</key>
+			<string>support.other.module</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#50a090</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SUPPORT: unit-as-type () in signatures (not as a value)</string>
+			<key>scope</key>
+			<string>support.constant.unit</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#E080B0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library function (something like getDocumentById in JS or method-style func calls in Go)</string>
+			<key>scope</key>
+			<string>support.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#407860</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library constant (js: lib name like Math; css: wellknown-values such as inline,relative,etc)</string>
+			<key>scope</key>
+			<string>support.constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#60a0e0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SUPPORT: keys/names in json/css; in python: classmethod/super/list/XyzException etc</string>
+			<key>scope</key>
+			<string>support.type, support.class, entity.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>background</key>
+				<string>#e9e6df</string>
+				<key>foreground</key>
+				<string>#b06060</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SUPPORT class extra</string>
+			<key>scope</key>
+			<string>support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library variable</string>
+			<key>scope</key>
+			<string>support.other.variable</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold underline italic</string>
+			</dict>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>CONSTANT in some (Python), in Haskell: data constructor, in CSS: color literals</string>
+			<key>scope</key>
+			<string>constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#60b050</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Number literals; in strings: formats+interpolations+escapes</string>
+			<key>scope</key>
+			<string>constant.numeric, constant.character, constant.character.escape</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#905008</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Built-in constant: usually keywords like true/false/nil/null/None; in Haskell: () and []</string>
+			<key>scope</key>
+			<string>constant.language</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#905008</string>
+			</dict>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>META</string>
+			<key>scope</key>
+			<string>meta.preprocessor</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#809080</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>META</string>
+			<key>scope</key>
+			<string>meta.declaration</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>META</string>
+			<key>scope</key>
+			<string>meta.class-constraint, meta.import, meta.deriving, meta.type-declaration</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A0A8A0</string>
+			</dict>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>Class name</string>
+			<key>scope</key>
+			<string>entity.name.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold underline</string>
+				<key>background</key>
+				<string>#e9e6df</string>
+				<key>foreground</key>
+				<string>#b06060</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inherited class</string>
+			<key>scope</key>
+			<string>entity.other.inherited-class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic</string>
+				<key>background</key>
+				<string>#e9e6df</string>
+				<key>foreground</key>
+				<string>#c99009</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Def</string>
+			<key>scope</key>
+			<string>entity.other.definition.local</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Def</string>
+			<key>scope</key>
+			<string>entity.other.definition.toplevel</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>background</key>
+				<string>#59564f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Def</string>
+			<key>scope</key>
+			<string>entity.other.definition.toplevel.meta</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>META</string>
+			<key>scope</key>
+			<string>meta.block entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function name</string>
+			<key>scope</key>
+			<string>entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function name</string>
+			<key>scope</key>
+			<string>entity.name.function.call</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#407860</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ENTITY</string>
+			<key>scope</key>
+			<string>entity.name.function.infix</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Tag name (definitely in html/xml the tag names!)</string>
+			<key>scope</key>
+			<string>entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7090c0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag attribute in html/xml; in css: selectors</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#c06030</string>
+			</dict>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>PUNCT</string>
+			<key>scope</key>
+			<string>punctuation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B0B8B0</string>
+			</dict>
+		</dict>
+
+
+
+
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A0A8A0</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#905008</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Invalid</string>
+			<key>scope</key>
+			<string>invalid</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold underline</string>
+				<key>foreground</key>
+				<string>#ff0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid deprecated</string>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic underline</string>
+				<key>foreground</key>
+				<string>#ff0000</string>
+			</dict>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>Markup Styling (markdown: bold/italic via _ or * )</string>
+			<key>scope</key>
+			<string>markup.italic</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Styling (markdown: bold/italic via _ or * )</string>
+			<key>scope</key>
+			<string>markup.underline</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Styling (markdown: bold/italic via ** )</string>
+			<key>scope</key>
+			<string>markup.bold</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Inline (in markdown: `backtick-quoted` content)</string>
+			<key>scope</key>
+			<string>markup.inline.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#50a090</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Setext Header</string>
+			<key>scope</key>
+			<string>markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic underline</string>
+				<key>foreground</key>
+				<string>#c06030</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Quote</string>
+			<key>scope</key>
+			<string>markup.quote</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c99009</string>
+			</dict>
+		</dict>
+
+
+
+		<dict>
+			<key>name</key>
+			<string>dbg.red1</string>
+			<key>scope</key>
+			<string>dbg.red1</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#880000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.red2</string>
+			<key>scope</key>
+			<string>dbg.red2</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#AA0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.red3</string>
+			<key>scope</key>
+			<string>dbg.red3</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.red4</string>
+			<key>scope</key>
+			<string>dbg.red4</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EE0000</string>
+			</dict>
+		</dict>
+
+
+
+		<dict>
+			<key>name</key>
+			<string>dbg.blu1</string>
+			<key>scope</key>
+			<string>dbg.blu1</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000088</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.blu2</string>
+			<key>scope</key>
+			<string>dbg.blu2</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000AA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.blu3</string>
+			<key>scope</key>
+			<string>dbg.blu3</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000CC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.blu4</string>
+			<key>scope</key>
+			<string>dbg.blu4</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#00CCFF</string>
+			</dict>
+		</dict>
+
+
+
+
+		<dict>
+			<key>name</key>
+			<string>dbg.gre1</string>
+			<key>scope</key>
+			<string>dbg.gre1</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008800</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.gre2</string>
+			<key>scope</key>
+			<string>dbg.gre2</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00AA00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.gre3</string>
+			<key>scope</key>
+			<string>dbg.gre3</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00CC00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dbg.gre4</string>
+			<key>scope</key>
+			<string>dbg.gre4</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00EE00</string>
+			</dict>
+		</dict>
+
+
+	</array>
+	<key>uuid</key>
+	<string>96A92F4B-E068-4DC6-9635-F55E7D920420</string>
+</dict>
+</plist>

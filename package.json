@@ -13,9 +13,14 @@
 				"path": "./metaleapLite.json"
 			},
 			{
-				"label": "metaleap Mono",
+				"label": "metaleap Mono Lite",
+				"uiTheme": "vs",
+				"path": "./metaleapMonoLite.json"
+			},
+			{
+				"label": "metaleap Mono Dark",
 				"uiTheme": "vs-dark",
-				"path": "./metaleapMono.json"
+				"path": "./metaleapMonoDark.json"
 			},
 			{
 				"label": "metaleap Dark",
