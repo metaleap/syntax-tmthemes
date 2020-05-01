@@ -1,5 +1,5 @@
 {
-    "tokenColors": "./metaleapMono.tmTheme",
+    "tokenColors": "./metaleapMonoDark.tmTheme",
     "colors": {
         "dropdown.background": "#2b2220",
         "dropdown.border": "#5b5250",
@@ -93,5 +93,5 @@
         "editorHoverWidget.statusBarBackground": "#583818",
         "editorHoverWidget.border": "#7b7270"
     },
-    "name": "metaleapMono"
+    "name": "metaleapMonoDark"
 }
