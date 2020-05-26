@@ -73,8 +73,8 @@
 			<string>support.function</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#407860</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,11 +96,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
-				<key>background</key>
-				<string>#e9e6df</string>
-				<key>foreground</key>
-				<string>#b06060</string>
+				<string>bold underline</string>
 			</dict>
 		</dict>
 		<dict>
@@ -212,10 +208,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>bold underline</string>
-				<key>background</key>
-				<string>#e9e6df</string>
-				<key>foreground</key>
-				<string>#b06060</string>
 			</dict>
 		</dict>
 		<dict>
@@ -298,9 +290,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#407860</string>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
