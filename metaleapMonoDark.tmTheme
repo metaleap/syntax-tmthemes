@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#383130</string>
+				<string>#363130</string>
 				<key>foreground</key>
 				<string>#b8b0a8</string>
 
@@ -29,27 +29,27 @@
 				<string>#89abcd</string>
 
 				<key>referenceHighlight</key>
-				<string>#484140</string>
+				<string>#464140</string>
 
 				<key>rangeHighlight</key>
-				<string>#585150</string>
+				<string>#565150</string>
 
 				<key>selection</key>
-				<string>#484140</string>
+				<string>#464140</string>
 				<key>inactiveSelection</key>
 				<string>#404040</string>
 				<key>selectionHighlight</key>
-				<string>#484140</string>
+				<string>#464140</string>
 
 				<key>findRangeHighlight</key>
-				<string>#585150</string>
+				<string>#565150</string>
 				<key>findMatchHighlight</key>
 				<string>#804020</string>
 				<key>currentFindMatchHighlight</key>
 				<string>#A04020</string>
 
 				<key>wordHighlight</key>
-				<string>#484140</string>
+				<string>#464140</string>
 				<key>wordHighlightStrong</key>
 				<string>#2e2222</string>
 
