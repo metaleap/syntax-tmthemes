@@ -230,7 +230,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline italic</string>
+				<string>bold italic</string>
 			</dict>
 		</dict>
 
@@ -284,7 +284,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline</string>
+				<string>bold</string>
 				<key>xforeground</key>
 				<string>#e8c898</string>
 			</dict>
@@ -325,7 +325,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline</string>
+				<string>bold</string>
 				<key>xforeground</key>
 				<string>#A06030</string>
 			</dict>
@@ -502,7 +502,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic underline</string>
+				<string>italic bold</string>
 				<key>foreground</key>
 				<string>#ff0000</string>
 			</dict>
